@@ -27,5 +27,10 @@ async def neko(ctx):
 async def うー(ctx):
     await ctx.send('にゃー')
 
+
+@bot.command()
+async def ねたろう(ctx):
+    await ctx.send('ドンキーコング')    
+    
     
 bot.run(token)
