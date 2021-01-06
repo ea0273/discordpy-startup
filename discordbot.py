@@ -30,7 +30,7 @@ async def うー(ctx):
 
 @bot.command()
 async def ねたろう(ctx):
-    await ctx.send('ドンキーコング')    
+    await ctx.send('ニャンちゅう')    
     
     
 bot.run(token)
