@@ -34,3 +34,4 @@ async def ねたろう(ctx):
     
     
 bot.run(token)
+
